@@ -1,0 +1,33 @@
+{
+  "name": "IM Fell English",
+  "designer": "Igino Marini",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Serif",
+  "size": 118208,
+  "fonts": [
+    {
+      "name": "IM FELL English",
+      "style": "italic",
+      "weight": 400,
+      "filename": "IMFELLEnglish-Italic.ttf",
+      "postScriptName": "IM_FELL_English_Italic",
+      "fullName": "IM FELL English Italic",
+      "copyright": "(c) 2007 Igino Marini (www.iginomarini.com) With Reserved Font Name IM FELL English Italic"
+    },
+    {
+      "name": "IM FELL English",
+      "style": "normal",
+      "weight": 400,
+      "filename": "IMFELLEnglish-Regular.ttf",
+      "postScriptName": "IM_FELL_English_Roman",
+      "fullName": "IM FELL English Roman",
+      "copyright": "(c) 2007 Igino Marini (www.iginomarini.com) With Reserved Font Name IM FELL English Roman"
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2010-05-17"
+}
